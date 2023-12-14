@@ -1,0 +1,210 @@
+body{
+    margin:auto;
+    width:auto;
+}
+}
+p
+{
+font-style: normal c;
+font-variant: normal;
+position: relative;
+text-align: justify;
+left:50%;
+float: left;
+}
+h2
+{
+    font-style: normal;
+    font-variant: small-caps;
+    font-size: 30px;
+    font-weight: bolder;
+}
+h1
+{
+    font-variant: small-caps;
+    font-size: xx-large;
+    color: white;
+}
+section.garde
+{
+max-width: auto;
+
+background-position: center;
+background-size: cover;
+font-family: Arial, sans-serif;
+text-align: justify;
+margin: auto;
+padding: 125px ;
+box-shadow: 0 0 0px ;
+font-size: 25px;
+background-image:url(photo1.jpg);
+
+
+
+}
+
+footer
+{
+    background-color: rgb(41, 3, 58);
+    color: white;
+    margin: auto;
+    padding: 150px ;
+    box-shadow: 0 0 0px ;
+    font-size: 17px;
+}
+ 
+img
+{
+    text-align: right;
+}
+div.container
+{
+    max-width: 1150px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+div.text-bloc
+{
+    flex: 0 0 50% ;
+    text-align: justify;
+    font-size: 22px;
+    padding: 0 0 0%;
+
+    }
+    
+    
+
+}
+div.image-bloc
+{
+   
+    height: auto;
+    display: contents;
+    flex: 0 0 50% ;
+    margin: auto;
+
+   
+}
+header
+{
+background-color:
+opacity:75%;
+}
+header.service
+{
+    background-color: rgb(41, 3, 58);
+    max-width: 100%;
+    margin: auto;
+    padding: 25px ;
+    box-shadow: 0 0 0px ;
+}
+h1
+{
+    text-align: center;
+    font-size: 35px;
+}
+ul.horizontal
+{
+    display: flex;
+    list-style: none;
+    padding: auto;
+    justify-content: right;
+    margin-top: -25;
+    
+
+}
+ul.horizontal li
+{
+    margin-right:50Px;
+    border: darkmagenta;
+
+}
+nav
+{
+
+    max-height: 70px;
+    margin-right:50Px;
+}
+a.entoure
+{
+    border: 2px solid rgb(67, 45, 87);
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(67, 37, 95);
+    
+}
+a.arondi
+{
+    border: 2px solid rgb(41, 129, 41);
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(41, 129, 41);
+   
+}
+
+
+   
+}
+a.icones-reseau-sociaux
+{
+    font-size: 24px
+    
+}
+nav.localisation
+{
+    text-align: center;
+    margin-top: -100px;
+    line-height: 30px;
+}
+nav.contacte
+{
+    text-align: right;
+    margin: -30;
+    margin-top: -200;
+    line-height: 30px;
+}
+h4
+{
+    font-size: 30px;
+    color: springgreen;
+}
+p.copyright
+{
+    margin: auto; /* Supprime les marges par défaut du corps de la page */
+    height: 35vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    color: darkgrey;
+
+}
+
+header.tete
+{
+    background-color:black;
+    opacity: 70%;
+   
+}
+p.info
+{
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    font-style: italic;
+}
+h1.principal
+{
+    text-align: center;
+    font-size: 47px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+}
